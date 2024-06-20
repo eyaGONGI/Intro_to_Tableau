@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/eya.gongi/viz/tableau_intro_17189083908600/Q1
+
 # Intro_to_Tableau
 ## Q1:
 1) In a new sheet, create a viz comparing the Median Sales and Average Sales by Region and State, colored by Segment.
